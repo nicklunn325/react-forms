@@ -1,0 +1,47 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "firstName": "Nick",
+      "lastName": "Lunn",
+      "location": "Cookeville, TN"
+    },
+    {
+      "firstName": "Archer",
+      "lastName": "Lunn",
+      "location": "Cookeville, TN",
+      "age": "1",
+      "id": 2
+    },
+    {
+      "firstName": "Tyler",
+      "lastName": "Charawell",
+      "location": "Lake Stevens, WA",
+      "age": "25",
+      "id": 3
+    },
+    {
+      "firstName": "Alberto",
+      "lastName": "Gonzalez",
+      "location": "Holly, MI",
+      "age": "29",
+      "id": 4
+    },
+    {
+      "firstName": "Max",
+      "lastName": "Rabin",
+      "location": "Staten Island, NY",
+      "age": "19",
+      "favoriteActivity": "Coding",
+      "id": 5
+    },
+    {
+      "firstName": "Valton",
+      "lastName": "Jones III",
+      "location": "Bremerton, WA",
+      "age": "41 in two weeks",
+      "favoriteActivity": "Coding",
+      "id": 6
+    }
+  ]
+}
